@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b> Distributed Client-Server Web-Based Application w/ GWT Framework: </b>[SkipBo Game](https://google.com)
+- <b> Distributed Client-Server Web-Based Application w/ GWT Framework: </b>[SkipBo Game](https://github.com/GriffinNye22/SkipBo)
 - <b> Distributed Client-Server Shell Simulation w/ C and UNIX System Calls: </b>[Shell Simulation](https://google.com)
 - <b> DFS Recursive Pathfinding w/ C++ </b>[Recursive Pathfinding](https://google.com)
 - <b> Analysis of Recursive Pathfinding using Djikstra's Algorithm w/ C++ </b>[Djikstra's Analysis](https://google.com)
