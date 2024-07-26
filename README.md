@@ -4,9 +4,9 @@
 
 - <b> Distributed Client-Server Web-Based Application w/ GWT Framework: </b>[SkipBo Game](https://github.com/GriffinNye22/SkipBo)
 - <b> Distributed Client-Server Shell Simulation w/ C and UNIX System Calls: </b>[Shell Simulation](https://google.com)
-- <b> DFS Recursive Pathfinding w/ C++ </b>[Recursive Pathfinding](https://google.com)
-- <b> Analysis of Recursive Pathfinding using Djikstra's Algorithm w/ C++ </b>[Djikstra's Analysis](https://google.com)
-- <b> Super Bowl Statistics Analysis w/ C++ </b> [Super Bowl Statistics](https://google.com)
+- <b> DFS Recursive Pathfinding w/ C++: </b>[Recursive Pathfinding](https://google.com)
+- <b> Analysis of Recursive Pathfinding using Djikstra's Algorithm w/ C++: </b>[Djikstra's Analysis](https://google.com)
+- <b> Super Bowl Statistics Analysis w/ C++: </b> [Super Bowl Statistics](https://google.com)
 
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
