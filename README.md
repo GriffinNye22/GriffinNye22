@@ -6,7 +6,7 @@
 - <b> Distributed Client-Server Shell Simulation w/ C and UNIX System Calls: </b>[Shell Simulation](https://github.com/GriffinNye22/ShellSimulation)
 - <b> DFS Recursive Pathfinding w/ C++: </b>[Recursive Pathfinding](https://github.com/GriffinNye22/DFS-Recursive-Pathfinding)
 - <b> Analysis of Recursive Pathfinding using Djikstra's Algorithm w/ C++: </b>[Djikstra's Analysis](https://github.com/GriffinNye22/DjikstrasAnalysis)
-- <b> Super Bowl Statistics Analysis w/ C++: </b> [Super Bowl Statistics](https://google.com)
+- <b> Super Bowl Statistics Analysis w/ C++: </b> [Super Bowl Statistics](https://github.com/GriffinNye22/SuperBowlStatistics)
 
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
