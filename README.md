@@ -7,7 +7,7 @@
 - <b> DFS Recursive Pathfinding w/ C++: </b>[Recursive Pathfinding](https://github.com/GriffinNye22/DFS-Recursive-Pathfinding)
 - <b> Analysis of Recursive Pathfinding using Dijkstra's Algorithm w/ C++: </b>[Djikstra's Analysis](https://github.com/GriffinNye22/DjikstrasAnalysis)
 - <b> Super Bowl Statistics Analysis w/ C++: </b> [Super Bowl Statistics](https://github.com/GriffinNye22/SuperBowlStatistics)
-- <b> Check out my solutions to </b> [Advent of Code 2024](https://github.com/Advent-Of-Code-2024) <b>!</b>
+- <b> Check out my solutions to </b> [Advent of Code 2024](https://github.com/GriffinNye22/Advent-Of-Code-2024) <b>!</b>
 <!-- - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
